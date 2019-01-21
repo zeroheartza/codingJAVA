@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class hw1{
+public class AddRandom{
   public static void main(String[] args){
 
 

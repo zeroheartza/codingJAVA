@@ -1,5 +1,5 @@
 import java.util.*;
-public class lab2{
+public class Calcutor{
     
     public static int menu(){
         Scanner Input = new Scanner(System.in);
